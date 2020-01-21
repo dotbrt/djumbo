@@ -1,2 +1,2 @@
-# jumbo
-Django blog practice project
+# Jumbo
+Django blog practice project created based on DjangoGirls tutorial (much love!)
